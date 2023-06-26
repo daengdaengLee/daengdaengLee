@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요~ 👋
 
 <!--
 **daengdaengLee/daengdaengLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 자바스크립트와 타입스크립트를 주력으로 사용하는 웹 프로그래머입니다.
+- ✅ 안정적이고 신뢰할 수 있는 시스템을 구축하는 작업을 좋아합니다.
+- 📖 러스트와 고 언어에 관심이 많습니다.
