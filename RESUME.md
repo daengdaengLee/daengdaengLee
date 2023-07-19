@@ -2,7 +2,7 @@
 
 - updated at : 2023-07-19
 
-## 이건호 / Node.js 프로그래머
+## 이건호 / Software Engineer
 
 ### Contact
 - 010-0000-0000
