@@ -1,6 +1,6 @@
 # RESUME
 
-- updated at : 2023-07-19
+- updated at : 2023-07-25
 
 ## 이건호 / Software Programmer
 
@@ -13,6 +13,7 @@
     - 프론트엔드, 백엔드 개발 모두 참여
     - 배치 프로그램 개발 리드 및 유지보수 (AWS 사용)
 - 명세와 매뉴얼에 맞게 동작하는 프로그램을 만들려고 합니다. 개발자와 사용자 모두 믿고 쓸 수 있어야 합니다.
+- 새로운 기술을 배우는 걸 좋아합니다. (Rust, Go, Java/Spring)
 
 ## Work Experience
 
