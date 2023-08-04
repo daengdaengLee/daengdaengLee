@@ -98,6 +98,17 @@
 
 ## Other Experience
 
+### Open Source
+#### utilitystreams
+- Node.js 에서 Stream API 를 사용할 때 편리하게 쓸 수 있는 스트림 클래스 모음
+- 단순하고, 사용하기 쉽게 설계
+- 시간을 다루는 편의 기능 제공
+    - Delay, Debounce, Throttle, Buffer(group by collection with size and time limit) 기능 제공
+    - 실수하기 쉬운 비동기 동작 처리
+- link
+    - github : https://github.com/daengdaengLee/utilitystreams
+    - npm : https://www.npmjs.com/package/utilitystreams
+
 ### 스터디
 - 마플코퍼레이션에서 사내 스터디로 진행
 - 책을 정해서 읽고 모여서 자유롭게 생각한 내용을 이야기하는 방식으로 진행
