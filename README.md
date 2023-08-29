@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ✅ 안정적이고 신뢰할 수 있는 시스템을 구축하는 작업을 좋아합니다.
 - 📖 현재 자바 & 스프링을 공부하고 있습니다.   <!-- - 📖 현재 러스트와 고 언어에 관심이 생겨서 공부하고 있습니다. -->
 - 💼 제 [이력서](https://github.com/daengdaengLee/daengdaengLee/blob/main/RESUME.md)입니다.
-- ✍🏼 제 [Medium 프로필](https://medium.com/@daengdaenglee)입니다.
+- ✍🏼 제 [아티클 원본 저장소](https://github.com/daengdaengLee/articles)입니다. [Medium 프로필](https://medium.com/@daengdaenglee)에서도 같은 글을 확인할 수 있습니다.
