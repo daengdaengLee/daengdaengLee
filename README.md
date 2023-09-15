@@ -1,4 +1,4 @@
-### 안녕하세요~ 👋
+### 안녕하세요~ 👋 웹 프로그래머 이건호입니다.
 
 <!--
 **daengdaengLee/daengdaengLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 자바스크립트와 타입스크립트를 주력으로 사용하는 웹 프로그래머입니다.
+- 💻 JS / TS + Node.js 를 가장 잘 사용합니다. Java + Spring, Rust 를 배우고 있습니다.
 - ✅ 안정적이고 신뢰할 수 있는 시스템을 구축하는 작업을 좋아합니다.
-- 📖 현재 자바 & 스프링을 공부하고 있습니다.   <!-- - 📖 현재 러스트와 고 언어에 관심이 생겨서 공부하고 있습니다. -->
 - ✍🏼 제 [아티클 원본 저장소](https://github.com/daengdaengLee/articles)입니다. [Medium 프로필](https://medium.com/@daengdaenglee/lists)에서도 같은 글을 확인할 수 있습니다.
-- 💼 제 [이력서](https://github.com/daengdaengLee/daengdaengLee/blob/main/RESUME.md)입니다.
+- 💼 제 [이력서](https://github.com/daengdaengLee/daengdaengLee/blob/main/RESUME.md)입니다. 현재 구직중입니다.
