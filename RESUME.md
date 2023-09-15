@@ -41,6 +41,7 @@
     - 인증 요청마다 임시 키를 발급하여 검사
     - 인증 토큰을 중복해서 발급하지 않도록 검사
 #### OMNUUM / 프론트엔드 프로그래머 (2022.01 ~ 2022.04)
+- [homepage](https://omnuum.io/) | [webapp](https://studio.omnuum.io/)
 - 웹3 PFP NFT 프로젝트를 No Code로 손쉽게 만들 수 있는 플랫폼입니다.
 - 사용한 기술: TS, Yarn, React, RxJS
 - 도메인 로직을 구현한 코드와 React로 화면을 그리거나 API를 호출하는 코드를 느슨하게 연결
