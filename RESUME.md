@@ -19,6 +19,7 @@
 ### 마플코퍼레이션 / 웹 풀 스택 프로그래머 (2020.01.02 ~ 2023.07.31)
 - 자체 개발한 함수형 JS, TS 라이브러리(FxJS, FxTS)를 사용하여 Lisp 스타일의 함수형 프로그래밍 방식을 사용했습니다.
 #### CIETY / 백엔드 프로그래머 (2022.06 ~ 2023.06)
+- [homepage](https://www.ciety.xyz/) | [webapp](https://ciety.xyz/login) | [google play](https://play.google.com/store/apps/details?id=com.ciety.xyz.prod&pcampaignid=web_share) | [app store](https://apps.apple.com/us/app/ciety-web3-game-community/id6443814305)
 - 웹3 기능을 제공하는 새로운 커뮤니티 빌딩 플랫폼입니다.
 - 사용한 기술: TS, pnpm, NestJS, Prisma, Jest, Docker, AWS
 - 모듈의 도메인 로직을 구현한 코드와 요청 & 응답 처리, 인프라나 다른 모듈을 사용하는 코드를 느슨하게 연결
