@@ -94,7 +94,7 @@
 
 ### Side Project
 #### Mangrul
-- [repo](https://github.com/daengdaengLee/mangurl) | [webapp](https://mangurl.net)
+- [repo](https://github.com/daengdaengLee/mangurl) | [webapp](https://mangurl.net/app)
 - 사용한 기술: Java, Spring MVC, DynamoDB, S3, ECS 등 
 - 해시 기반 URL 단축 서비스입니다. 원본 URL에 대한 고유한 해시 코드를 만들어서 단축 URL을 제공합니다.
 - 원본 URL과 단축 URL 튜플은 DynamoDB에 저장합니다.
