@@ -89,8 +89,7 @@
     - 스크롤에 따라 동적으로 데이터를 추가 요청하도록 구현 (페이지네이션)
 #### FDC / 프론트엔드 프로그래머 (2018.08 ~ 2018.09)
 - 반도체 장비에서 수집한 과거 또는 실시간 센서 데이터를 웹 기반 차트 UI로 출력하는 프로그램입니다.
-- dygraphs.js 라이브러리를 사용하여 대용량 타임 시리즈 데이터를 차트 UI로 표현
-    - dygraphs.js 래퍼 React 컴포넌트를 개발하여 전체 React 기반 UI 코드에 통합
+- 대용량 타임 시리즈 데이터를 그리는 차트 컴포넌트를 개발했습니다. (dygraphs.js, React)
 
 ## Other Experience
 
@@ -125,25 +124,17 @@
 - Java
 
 ### 프레임워크 / 라이브러리
-- NestJS
-- Express.js
+- NestJS / Express.js
 - Prisma
 - Jest
 - React
-- RxJS
-- FxJS / FxTS
+- RxJS / FxJS / FxTS
 - FxSQL
 - Spring
 
 ### 인프라 / 데브옵스 / AWS
 - Docker
-- EC2
-- ECS
-- ECR
-- Lambda
-- SQS
-- Cloud Watch
-- S3
+- EC2 / ECS / ECR / Lambda / SQS / S3
 
 ## Education
 
