@@ -124,12 +124,12 @@
 
 ### 프레임워크 / 라이브러리
 - NestJS / Express.js
-- Prisma
+- Prisma / FxSQL
 - Jest
 - React
 - RxJS / FxJS / FxTS
-- FxSQL
 - Spring
+- JUnit / AssertJ / Mockito
 
 ### 인프라 / 데브옵스 / AWS
 - Docker
