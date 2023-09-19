@@ -1,6 +1,6 @@
 # RESUME
 
-- updated at : 2023-09-15
+- updated at : 2023-09-19
 
 ## 이건호 / Software Programmer
 
@@ -11,7 +11,7 @@
 
 ### About Me
 - 6년 차 웹 프로그래머로 웹 프론트엔드 & 백엔드, 배치 애플리케이션을 개발했습니다.
-- JS / TS + Node.js 를 가장 잘 사용합니다. Java + Spring, Rust 를 배우고 있습니다.
+- JS / TS + Node.js 를 잘 사용합니다. Java + Spring, Rust 를 배우고 있습니다.
 - 명세와 매뉴얼에 맞게 동작하는 프로그램을 만들려고 합니다. 개발자와 사용자 모두 믿고 쓸 수 있어야 합니다.
 
 ## Work Experience
