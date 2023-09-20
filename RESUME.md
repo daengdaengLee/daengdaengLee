@@ -112,8 +112,10 @@
 
 - [repo](https://github.com/daengdaengLee/utilitystreams) | [npm](https://www.npmjs.com/package/utilitystreams)
 - 프로젝트 소개: Node.js에서 Stream API를 사용할 때 편리하게 쓸 수 있는 스트림 클래스, 함수 모음입니다.
+- 역할: 개인 프로젝트로 개발, 배포 모두 직접 하고 있습니다.
 - 사용한 기술: TS, Jest
-- 단순하고, 사용하기 쉽게 설계했습니다. 특히 제어하기 어려운 비동기 동작을 처리하는 편의 기능을 제공합니다. (Delay, Debounce, Throttle, Buffer)
+- 기능: 단순하고, 사용하기 쉽게 설계했습니다. 특히 제어하기 어려운 비동기 동작을 처리하는 편의 기능을 제공합니다.
+  (Delay, Debounce, Throttle, Buffer)
 
 ## Skill
 
