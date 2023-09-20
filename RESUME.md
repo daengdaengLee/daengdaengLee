@@ -150,13 +150,11 @@
 
 ### 프레임워크 / 라이브러리
 
-- NestJS / Express.js
-- Prisma / FxSQL
-- Jest
-- React
-- RxJS / FxJS / FxTS
-- Spring
-- JUnit / AssertJ / Mockito
+- Web : Spring / NestJS / Express.js
+- DB : Prisma / FxSQL
+- Test : JUnit / AssertJ / Mockito / Jest
+- UI : React
+- Utility : RxJS / FxJS / FxTS
 
 ### 인프라 / 데브옵스 / AWS
 
