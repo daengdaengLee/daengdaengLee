@@ -5,11 +5,13 @@
 ## 이건호 / Software Programmer
 
 ### Contact
+
 - 010-0000-0000
 - gunho1020@gmail.com
 - [articles](https://github.com/daengdaengLee/articles) | [medium](https://medium.com/@daengdaenglee/lists)
 
 ### About Me
+
 - 6년 차 웹 프로그래머로 웹 프론트엔드 & 백엔드, 배치 애플리케이션을 개발했습니다.
 - JS / TS + Node.js 를 잘 사용합니다. Java + Spring, Rust 를 배우고 있습니다.
 - 명세와 매뉴얼에 맞게 동작하는 프로그램을 만들려고 합니다. 개발자와 사용자 모두 믿고 쓸 수 있어야 합니다.
@@ -17,17 +19,20 @@
 ## Work Experience
 
 ### 마플코퍼레이션 / 웹 풀 스택 프로그래머 (2020.01.02 ~ 2023.07.31)
+
 - 자체 개발한 함수형 JS, TS 라이브러리(FxJS, FxTS)를 사용하여 Lisp 스타일의 함수형 프로그래밍 방식을 사용했습니다.
+
 #### CIETY / 백엔드 프로그래머 (2022.06 ~ 2023.06)
+
 - [homepage](https://www.ciety.xyz/) | [webapp](https://ciety.xyz/login) | [google play](https://play.google.com/store/apps/details?id=com.ciety.xyz.prod&pcampaignid=web_share) | [app store](https://apps.apple.com/us/app/ciety-web3-game-community/id6443814305)
 - 웹3 기능을 제공하는 새로운 커뮤니티 빌딩 플랫폼입니다.
 - 사용한 기술: TS, pnpm, NestJS, Prisma, Jest, Docker, AWS
 - 모듈의 도메인 로직을 구현한 코드와 요청 & 응답 처리, 인프라나 다른 모듈을 사용하는 코드를 느슨하게 연결
-    - 변경이 전파되는 범위를 제한하여 유지보수하기 쉬워짐 
-    - 의존성을 교체하기 쉬워져서 코드를 재사용하거나 테스트하기 쉬워짐 
+    - 변경이 전파되는 범위를 제한하여 유지보수하기 쉬워짐
+    - 의존성을 교체하기 쉬워져서 코드를 재사용하거나 테스트하기 쉬워짐
     - 육각형 아키텍처, 포트 & 어댑터 패턴 적용
     - NestJS 의 모듈과 의존성 주입 기능 사용
- - API 속도 개선
+- API 속도 개선
     - 평균 160ms에서 평균 60ms로 개선
     - 데이터베이스 쿼리 같은 비동기 요청을 최대한 동시에 요청, 도메인 로직과 섞여서 차례대로 요청하지 않도록 수정
     - Prisma의 nested reads 기능으로 같은 모델을 여러 번 조회하는 경우 FK 컬럼값만 조회 후 모아서 한 번에 조회하도록 개선
@@ -40,7 +45,9 @@
     - 비정상적인 요청으로 정상적인 인증 과정이 실패하거나 인증 토큰이 탈취당하지 않도록 고려
     - 인증 요청마다 임시 키를 발급하여 검사
     - 인증 토큰을 중복해서 발급하지 않도록 검사
+
 #### OMNUUM / 프론트엔드 프로그래머 (2022.01 ~ 2022.04)
+
 - [homepage](https://omnuum.io/) | [webapp](https://studio.omnuum.io/)
 - 웹3 PFP NFT 프로젝트를 No Code로 손쉽게 만들 수 있는 플랫폼입니다.
 - 사용한 기술: TS, Yarn, React, RxJS
@@ -49,15 +56,17 @@
     - MVC 패턴, 리액티브 프로그래밍 패러다임 적용
     - RxJS를 사용하여 도메인 상태와 React 상태를 연결
 - 낙관적 Lock을 사용해 파일 업로드 API 호출이 유효한지 검사
-    - 파일 메타데이터와 실제 파일 사이의 정합성 확보 
+    - 파일 메타데이터와 실제 파일 사이의 정합성 확보
     - 데이터베이스의 파일 메타데이터에 revision을 붙이고 대응하는 파일을 업로드할 때 revision 검사
     - 해당 기능은 프로젝트 관리자만 사용할 수 있으므로 적절한 안내 내용만 전달하면 낙관적 Lock을 사용해도 사용성에 문제가 없을 것으로 판단
+
 #### 제품 제작용 PDF 자동 생성 시스템 / 백엔드 프로그래머 (2020.12 ~ 2021.02:2023.06 까지 추가 개발 및 유지보수 진행)
+
 - 지류 제품 생산에 사용할 출력용 PDF 파일을 매일 정해진 시간에 생성하는 배치 프로그램입니다.
 - 사용한 기술: JS, TS, Playwright, Docker, AWS
 - Node.js 스트림 API와 async generator 함수를 사용하여 메모리 안전하고 효율적으로 사용
     - 고화질 이미지를 다수 포함한 GB 단위의 PDF 파일 생성 가능
-    - 파일 내용을 부분부분 평가하고 소비하도록 설계 
+    - 파일 내용을 부분부분 평가하고 소비하도록 설계
 - PDF 파일 크기 최소화
     - PDF의 reference object를 사용해 이미지 바이너리 데이터는 한 번만 쓰고 여러 번 출력
     - 해당 기능을 지원하는 라이브러리를 찾지 못해 PDF 명세에 맞춰 파일을 생성하는 모든 코드를 직접 작성
@@ -65,11 +74,13 @@
     - 제품 이미지를 브라우저로만 생성할 수 있는 상황
     - AWS Lambda에서 실행할 수 있는 커스텀 도커 이미지로 빌드 (Ubuntu + aws-lambda-ric + Playwright 시스템 라이브러리)
     - AWS Lambda에서 연속적인 호출에 대해 함수 인스턴스를 재사용할 수 있는 상황 대비
-    - tmp 폴더가 계속 유지될 수 있는 상황 발견, 해당 폴더에 있는 Playwright 실행 로그를 삭제 
+    - tmp 폴더가 계속 유지될 수 있는 상황 발견, 해당 폴더에 있는 Playwright 실행 로그를 삭제
 - AWS Lambda 최대 동시 실행 수를 조절해 계정의 최대 동시 실행 수 제한에 문제없도록 조절
     - SQS를 사용한 비동기 호출 사용
     - 직접 간단한 큐를 구현하여 서버에서 직접 조절
+
 #### 벡터 기반 웹 에디터 / 프론트엔드 프로그래머 (2020.05 ~ 2021-07:2023.06 까지 추가 개발 및 유지보수 진행)
+
 - 벡터 이미지를 사용해 스티커, 아크릴 키링, 아크릴 스탠드와 같은 커스텀 제품을 디자인할 수 있는 웹 에디터입니다.
 - SVG를 사용해 다른 프로그램에서 작업한 결과물을 쉽게 가져올 수 있도록 함
 - SVG 변환 API를 사용하여 웹 에디터에서 이동, 회전, 크기 변환, 그룹 기능을 바로 사용할 수 있도록 함
@@ -78,51 +89,67 @@
     - ViewBox를 조작해 줌, 패닝 기능 구현
 
 ### BRIQUE (브릭) / 웹 프론트엔드 프로그래머 (2018.03.02 ~ 2019.12.20)
-#### BRIQUE Analytics / 프론트엔드 프로그래머 (2018.03 ~ 2019.12) 
+
+#### BRIQUE Analytics / 프론트엔드 프로그래머 (2018.03 ~ 2019.12)
+
 - 서로 다른 언어로 작성한 코드를 노드로 등록하고 웹 UI를 이용해 워크플로우를 만들어 실행할 수 있는 플랫폼입니다.
 - 파이썬 스크립트와 실행 옵션을 노드로 등록하는 컴포넌트를 개발했습니다.
 - 노드를 연결하여 워크플로우를 구성하는 화면을 개발했습니다. (SVG, React)
 - 웹 소켓으로 워크플로우 실행 로그를 받아 출력하는 콘솔 화면 컴포넌트를 개발했습니다. (WebSocket, React)
-#### Data Prep / 프론트엔드 프로그래머 (2019.07 ~ 2019.08) 
+
+#### Data Prep / 프론트엔드 프로그래머 (2019.07 ~ 2019.08)
+
 - 테이블 형태의 대용량 데이터를 웹 UI에 표현하고 불필요한 데이터를 제거할 수 있는 프로그램입니다. 위 BRIQUE Analytics의 부가 기능으로 개발했습니다.
 - 대용량 데이터를 화면에 출력하기 위한 무한 스크롤 테이블 컴포넌트를 개발했습니다. (React, react-virtualized)
+
 #### FDC / 프론트엔드 프로그래머 (2018.08 ~ 2018.09)
+
 - 반도체 장비에서 수집한 과거 또는 실시간 센서 데이터를 웹 기반 차트 UI로 출력하는 프로그램입니다.
 - 대용량 타임 시리즈 데이터를 그리는 차트 컴포넌트를 개발했습니다. (dygraphs.js, React)
 
 ## Other Experience
 
 ### Side Project
+
 #### Mangrul
+
 - [repo](https://github.com/daengdaengLee/mangurl) | [webapp](https://mangurl.net/app)
-- 사용한 기술: Java, Spring MVC, DynamoDB, S3, ECS 등 
+- 사용한 기술: Java, Spring MVC, DynamoDB, S3, ECS 등
 - 해시 기반 URL 단축 서비스입니다. 원본 URL에 대한 고유한 해시 코드를 만들어서 단축 URL을 제공합니다.
 - 원본 URL과 단축 URL 튜플은 DynamoDB에 저장합니다.
 - AWS 의 VPC, ALB, Route 53, ACM, ECR, ECS, S3 서비스를 이용해 운영중입니다.
 
 ### Open Source
+
 #### utilitystreams
+
 - [repo](https://github.com/daengdaengLee/utilitystreams) | [npm](https://www.npmjs.com/package/utilitystreams)
 - 사용한 기술: TS, Jest
 - Node.js 에서 Stream API 를 사용할 때 편리하게 쓸 수 있는 스트림 클래스, 함수 모음입니다.
 - 단순하고, 사용하기 쉽게 설계했습니다. 특히 제어하기 어려운 비동기 동작을 처리하는 편의 기능을 제공합니다. (Delay, Debounce, Throttle, Buffer)
 
 ### 스터디
+
 #### 오브젝트 - 코드로 이해하는 객체지향 설계 / 마플코퍼레이션 사내 스터디 (2023.02 ~ 2023.06)
+
 - 객체와 객체의 책임을 중심으로 설계하는 방법을 배웠습니다.
 - 완벽한 객체지향 설계는 없고 서로 다른 설계 간 트레이드 오프를 비교해야 한다는 점을 배웠습니다.
 - 타입 시스템에서 변성(variance)이 어떻게 동작하는지 이해하고 TS에서의 제약 사항을 확인했습니다.
+
 #### 루비로 배우는 객체지향 디자인 / 마플코퍼레이션 사내 스터디 (2021.02 ~ 2021.05)
+
 - 메시지 전달 메커니즘을 바탕으로 객체지향 프로그래밍 원칙을 배웠습니다.
 - 객체지향 원칙이 프로그래밍 언어의 특정 기능에 종속되지 않는다는 것을 이해했습니다.
 
 ## Skill
 
 ### 언어
+
 - JS / TS
 - Java
 
 ### 프레임워크 / 라이브러리
+
 - NestJS / Express.js
 - Prisma / FxSQL
 - Jest
@@ -132,10 +159,12 @@
 - JUnit / AssertJ / Mockito
 
 ### 인프라 / 데브옵스 / AWS
+
 - Docker
 - EC2 / ECS / ECR / Lambda / SQS / S3
 
 ## Education
 
 ### 동국대학교 / 수학교육과 (2011.03 ~ 2017.02)
+
 - 학점 : 3.9 / 4.5
