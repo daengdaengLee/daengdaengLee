@@ -97,14 +97,9 @@
 #### Mangrul
 
 - [repo](https://github.com/daengdaengLee/mangurl) | [webapp](https://mangurl.net/app)
-- 프로젝트 소개: URL 단축 서비스입니다.
+- 프로젝트 소개: 해시 기반 URL 단축 서비스입니다.
 - 역할: 개인 프로젝트로 개발, 배포, 운영 모두 직접 하고 있습니다.
 - 사용한 기술: Java, Spring MVC, DynamoDB, S3, ECS 등
-- 기능: MD5 해시 함수로 URL을 해시 합니다.
-  이후 URL에서 안전하게 사용할 수 있도록 Base62 방식으로 인코딩합니다.
-  앞 7자리 문자열을 단축 URL로 제공합니다.
-- 기능: 해시 충돌이 발생하면 원본 URL에 salt 값을 더해 다시 단축 알고리즘을 실행합니다.
-  아직 사용하지 않은 단축 URL 해시 코드가 충분하다면 충분히 해시 충돌을 해소할 수 있습니다.
 
 ### Open Source
 
@@ -114,8 +109,7 @@
 - 프로젝트 소개: Node.js에서 Stream API를 사용할 때 편리하게 쓸 수 있는 스트림 클래스, 함수 모음입니다.
 - 역할: 개인 프로젝트로 개발, 배포 모두 직접 하고 있습니다.
 - 사용한 기술: TS, Jest
-- 기능: 단순하고, 사용하기 쉽게 설계했습니다. 특히 제어하기 어려운 비동기 동작을 처리하는 편의 기능을 제공합니다.
-  (Delay, Debounce, Throttle, Buffer)
+- 기능: 제어하기 어려운 비동기 동작을 처리하는 편의 기능을 제공합니다. (Delay, Debounce, Throttle, Buffer)
 
 ## Skill
 
