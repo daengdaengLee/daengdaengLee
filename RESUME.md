@@ -118,6 +118,11 @@
 - 사용한 기술: TS, Jest
 - 기능: 제어하기 어려운 비동기 동작을 처리하는 편의 기능을 제공합니다. (Delay, Debounce, Throttle, Buffer)
 
+#### GlueSQL
+
+- [repo](https://github.com/gluesql/gluesql)
+- 기여: https://github.com/gluesql/gluesql/pull/1259
+
 ## Skill
 
 ### 언어
