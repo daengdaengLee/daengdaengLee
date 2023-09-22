@@ -134,9 +134,10 @@
 - UI : React
 - Utility : RxJS / FxJS / FxTS
 
-### 인프라 / 데브옵스 / AWS
+### 인프라 / AWS
 
 - Docker
+- GitHub Action
 - EC2 / ECS / ECR / Lambda / SQS / S3
 
 ## Education
