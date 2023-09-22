@@ -70,7 +70,10 @@
 - 역할: 프론트엔드 프로그래머로 SVG 이미지를 편집, 저장하고 로드하는 기능을 개발했습니다. 에디터의 줌, 패닝 기능을 개발했습니다.
 - 사용한 기술: JS, SVG, FxJS (회사에서 자체 개발한 함수형 라이브러리), Frame (회사에서 자체 개발한 UI 개발 프레임워크)
 
-### BRIQUE (브릭) / 웹 프론트엔드 프로그래머 (2018.03.02 ~ 2019.12.20)
+### BRIQUE (브릭) (2018.03.02 ~ 2019.12.20)
+
+- 웹 프론트엔드 프로그래머로 주로 반도체 공장에서 사용하는 데이터 분석 애플리케이션의 웹 UI를 개발했습니다.
+- 프로젝트, 팀, 회사 업무에서 개선할 점을 적극적으로 개선했습니다.
 
 #### BRIQUE Analytics (2018.03 ~ 2019.12)
 
@@ -97,7 +100,7 @@
 
 ### Side Project
 
-#### Mangrul
+#### Mangrul (2023.09 ~ 현재)
 
 - [repo](https://github.com/daengdaengLee/mangurl) | [webapp](https://mangurl.net/app)
 - 프로젝트 소개: 해시 기반 URL 단축 서비스입니다.
@@ -106,7 +109,7 @@
 
 ### Open Source
 
-#### utilitystreams
+#### utilitystreams (2023.07 ~ 현재)
 
 - [repo](https://github.com/daengdaengLee/utilitystreams) | [npm](https://www.npmjs.com/package/utilitystreams)
 - 프로젝트 소개: Node.js에서 Stream API를 사용할 때 편리하게 쓸 수 있는 스트림 클래스, 함수 모음입니다.
@@ -123,8 +126,8 @@
 
 ### 언어 / 런타임
 
-- JS / TS / Node.js
 - Java
+- JS / TS / Node.js
 
 ### 프레임워크 / 라이브러리
 
