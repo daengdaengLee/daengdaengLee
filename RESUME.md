@@ -1,7 +1,3 @@
-# RESUME
-
-- updated at : 2023-09-21
-
 ## 이건호 / Software Programmer
 
 ### Contact
