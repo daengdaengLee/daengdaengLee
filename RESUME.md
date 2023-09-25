@@ -31,6 +31,7 @@
 - 역할: 인증 및 인가 기능의 DB 설계부터 API 엔드포인트까지 담당하여 개발했습니다.
 - 사용한 기술: TS, pnpm, NestJS, Prisma, Jest, Docker, AWS
 - 기능: 블록체인 지갑을 소유한 사용자가 Private 키를 노출하지 않고 안전하게 인증할 수 있는 시스템을 개발했습니다.
+  ([관련 블로그](https://medium.com/@daengdaenglee/%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-%EC%A7%80%EA%B0%91-%EC%A3%BC%EC%9D%B8-%EC%9D%B8%EC%A6%9D%ED%95%98%EA%B8%B0-63d8b37df0f0))
 - 개선: 중복 쿼리를 병합하여 API 속도를 평균 160ms에서 평균 60ms로 개선했습니다.
   ([관련 블로그](https://medium.com/@daengdaenglee/prisma-%EC%A1%B0%ED%9A%8C-%EC%B5%9C%EC%A0%81%ED%99%94-e17043266739))
 - 테스트: 개발한 API에 대한 E2E 테스트를 작성하고 GitHub Action을 통해 실행했습니다.
