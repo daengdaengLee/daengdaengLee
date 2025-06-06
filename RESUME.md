@@ -4,6 +4,7 @@
 
 - 010-0000-0000
 - gunho1020@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/kunholee/)
 - [Medium](https://medium.com/@daengdaenglee/lists)
 
 ### About Me
