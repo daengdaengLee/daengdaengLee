@@ -126,12 +126,14 @@
 #### OSSCA
 
 - [homepage](https://www.contribution.ac/)
+- 프로젝트 소개: 아직 오픈소스 프로젝트에 익숙하지 않은 개발자를 위한 단계적 멘토링 프로그램입니다.
 - 2025년 참여형 프로그램 Argo Project 팀 리드멘토
-- 2024년 참여형 프로그램 Argo CD 팀 리드멘티 
+- 2024년 참여형 프로그램 Argo CD 팀 리드멘티 / 우수상(정보통신산업진흥원장상) 수상
 
 #### Argo CD
 
 - [repo](https://github.com/argoproj/argo-cd)
+- 프로젝트 소개: 쿠버네티스에서 GitOps 기반으로 CD 를 구성하기 위한 도구입니다.
 - 기여: [전체 목록](https://github.com/argoproj/argo-cd/issues?q=involves%3AdaengdaengLee)
   - [Hydrator 기능 WebHook 연동](https://github.com/argoproj/argo-cd/pull/19397)
   - [동기화 설정 관련 로직에 에러처리 추가](https://github.com/argoproj/argo-cd/pull/20043)
