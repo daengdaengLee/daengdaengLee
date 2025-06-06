@@ -4,17 +4,18 @@
 
 - 010-0000-0000
 - gunho1020@gmail.com
-- [articles](https://github.com/daengdaengLee/articles) | [medium](https://medium.com/@daengdaenglee/lists)
+- [Medium](https://medium.com/@daengdaenglee/lists)
 
 ### About Me
 
-- 6년 차 웹 프로그래머로 웹 프론트엔드 & 백엔드, 배치 애플리케이션을 개발했습니다.
-- JS / TS + Node.js 를 잘 사용합니다. 지금은 Go(Golang) 을 주로 사용합니다. Java + Spring, Rust 를 배우고 있습니다.
+- 8년 차 웹 프로그래머로 웹 프론트엔드 & 백엔드, 배치 애플리케이션을 개발했습니다. 지금은 AI(LLM) 프로젝트를 쉽게 제작, 사용할 수 있는 웹서비스를 개발중입니다.
+- JS / TS + Node.js 를 잘 사용합니다. 지금은 Go(Golang) 을 주로 사용합니다. 때때로 Java + Spring, Python 을 사용중입니다.
 - 명세와 매뉴얼에 맞게 동작하는 프로그램을 만들려고 합니다. 개발자와 사용자 모두 믿고 쓸 수 있어야 합니다.
+- 오픈소스 프로젝트와 커뮤니티에 참여하고 있습니다. ([Argo Project](https://github.com/argoproj) 멤버, [OSSCA](https://www.contribution.ac/) 프로그램 참여)
 
 #### 기술 관심사
 
-- JS / TS + Node.js, Go, Java + Spring, Rust 등 서로 다른 기술을 배우고 써 보면서 새로운 관점을 가지고 다양한 아이디어를 떠올리는 것을 좋아합니다.
+- JS / TS + Node.js, Go, Java + Spring, Python, Rust 등 서로 다른 기술을 배우고 써 보면서 새로운 관점을 가지고 다양한 아이디어를 떠올리는 것을 좋아합니다.
 - 안정적이고 강력한 타입 시스템에 관심이 많습니다.
   개발자의 실수를 줄여주고 코드를 작성할 때 더 확신을 가질 수 있게 해서 비즈니스 문제를 해결하는 데 집중할 수 있게 도와준다고 생각합니다.
 - 코드를 어떤 구조로 관리하면 좋을지 고민합니다.
@@ -24,6 +25,10 @@
 ## Work Experience
 
 ### LG유플러스 / 데이터 플랫폼 엔지니어, 웹 풀 스택 프로그래머 (2023.12.18 ~ 현재)
+
+#### ixi-Solution / 백엔드 프로그래머 (2023.12 ~ 현재)
+
+- 프로젝트 소개: 
 
 ### 마플코퍼레이션 / 웹 풀 스택 프로그래머 (2020.01.02 ~ 2023.07.31)
 
@@ -103,6 +108,7 @@
 
 ## Other Experience
 
+<!--
 ### Side Project
 
 #### Mangrul / 웹 풀 스택 프로그래머, DevOps (2023.09 ~ 현재)
@@ -111,10 +117,34 @@
 - 프로젝트 소개: 해시 기반 URL 단축 서비스입니다.
 - 역할: 개인 프로젝트로 개발, 배포, 운영 모두 직접 하고 있습니다.
 - 사용한 기술: Java, Spring MVC, DynamoDB, S3, ECS 등
+-->
 
 ### Open Source
 
-#### utilitystreams / Node.js 프로그래머, DevOps (2023.07 ~ 현재)
+#### OSSCA
+
+- [homepage](https://www.contribution.ac/)
+- 2025년 참여형 프로그램 Argo Project 팀 리드멘토
+- 2024년 참여형 프로그램 Argo CD 팀 리드멘티 
+
+#### Argo CD
+
+- [repo](https://github.com/argoproj/argo-cd)
+- 기여:
+  - https://github.com/argoproj/argo-cd/pull/19397
+  - https://github.com/argoproj/argo-cd/pull/20043
+  - https://github.com/argoproj/argo-cd/pull/23182
+  - https://github.com/argoproj/argo-cd/pull/19742
+  - https://github.com/argoproj/argo-cd/pull/19128
+  - 이하 생략 
+
+#### GlueSQL
+
+- [repo](https://github.com/gluesql/gluesql)
+- 기여:
+  - https://github.com/gluesql/gluesql/pull/1259
+
+#### utilitystreams / Node.js 프로그래머, DevOps (2023.07 ~ 2023.11)
 
 - [repo](https://github.com/daengdaengLee/utilitystreams) | [npm](https://www.npmjs.com/package/utilitystreams)
 - 프로젝트 소개: Node.js에서 Stream API를 사용할 때 편리하게 쓸 수 있는 스트림 클래스, 함수 모음입니다.
@@ -122,24 +152,21 @@
 - 사용한 기술: TS, Jest
 - 기능: 제어하기 어려운 비동기 동작을 처리하는 편의 기능을 제공합니다. (Delay, Debounce, Throttle, Buffer)
 
-#### GlueSQL
-
-- [repo](https://github.com/gluesql/gluesql)
-- 기여: https://github.com/gluesql/gluesql/pull/1259
-
 ## Skill
 
 ### 언어 / 런타임
 
-- Java
 - JS / TS / Node.js
+- Golang
+- Java
+- Python
 
 ### 프레임워크 / 라이브러리
 
-- Web : Spring / NestJS / Express.js
-- DB : Prisma / FxSQL
-- Test : JUnit / Jest
-- UI : React
+- Web : Gin / Echo / NestJS / Express.js / Spring
+- DB : GORM / Prisma / FxSQL / JPA
+- Test : Vegeta / Jest / JUnit / Mockito / Locust
+- UI : React / Vue
 - Utility : RxJS / FxJS / FxTS
 
 ### 인프라 / AWS
