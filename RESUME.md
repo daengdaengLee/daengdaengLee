@@ -132,19 +132,18 @@
 #### Argo CD
 
 - [repo](https://github.com/argoproj/argo-cd)
-- 기여:
-  - https://github.com/argoproj/argo-cd/pull/19397
-  - https://github.com/argoproj/argo-cd/pull/20043
-  - https://github.com/argoproj/argo-cd/pull/23182
-  - https://github.com/argoproj/argo-cd/pull/19742
-  - https://github.com/argoproj/argo-cd/pull/19128
-  - 이하 생략 
+- 기여: [전체 목록](https://github.com/argoproj/argo-cd/issues?q=involves%3AdaengdaengLee)
+  - 주요 기여 내용:
+    - [Hydrator 기능 WebHook 연동](https://github.com/argoproj/argo-cd/pull/19397)
+    - [동기화 설정 관련 로직에 에러처리 추가](https://github.com/argoproj/argo-cd/pull/20043)
+    - [Git 연동 기능 단위테스트 추가](https://github.com/argoproj/argo-cd/pull/19128)
 
 #### GlueSQL
 
 - [repo](https://github.com/gluesql/gluesql)
-- 기여:
-  - https://github.com/gluesql/gluesql/pull/1259
+- 기여: [전체 목록](https://github.com/gluesql/gluesql/issues?q=involves%3AdaengdaengLee)
+  - 주요 기여 내용:
+    - [AST 빌드 예제 작성](https://github.com/gluesql/gluesql/pull/1259)
 
 #### utilitystreams / Node.js 프로그래머, DevOps (2023.07 ~ 2023.11)
 
